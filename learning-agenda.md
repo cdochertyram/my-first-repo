@@ -1,6 +1,6 @@
 # Learning agenda
 
-## Topics
+## Topic
 
 * Provide some tools that will help your learning
   * Online playgrounds
